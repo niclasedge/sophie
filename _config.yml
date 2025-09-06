@@ -1,6 +1,6 @@
 # Site
-name: "Mein Blog"
-title: "Mein Blog"
+name: "Sophies Blog"
+title: "Sophies Blog"
 description: "Ein moderner Blog mit dem Mediumish Jekyll Theme"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -14,9 +14,9 @@ permalink: /:title/
 
 # Authors
 authors:
-  admin:
-    name: Admin
-    display_name: Admin
+  sophie:
+    name: Sophie
+    display_name: Sophie
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     avatar: 'assets/images/avatar.png'
     email: your-email@example.com

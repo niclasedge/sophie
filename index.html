@@ -1,0 +1,23 @@
+---
+layout: default
+title: Home
+---
+
+<!-- Posts Index
+================================================== -->
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="row">
+                {% for post in paginator.posts %}
+                    {% include postbox.html %}
+                {% endfor %}
+            </div>
+            <!-- Pagination -->
+            {% include pagination.html %}
+        </div>
+        <div class="col-md-4">
+            {% include sidebar.html %}
+        </div>
+    </div>
+</div>

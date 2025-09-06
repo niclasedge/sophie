@@ -1,10 +1,10 @@
-# Jekyll Blog mit Memoirs Theme
+# Jekyll Blog mit Mediumish Theme
 
-Ein minimalistischer Blog erstellt mit Jekyll und dem [Memoirs Theme](https://github.com/codebygina/jekyll-theme-memoirs).
+Ein moderner Blog erstellt mit Jekyll und dem [Mediumish Theme](https://github.com/codebygina/mediumish-theme-jekyll).
 
 ## 🚀 Features
 
-- **Memoirs Jekyll Theme**: Minimalistisches und elegantes Design
+- **Mediumish Jekyll Theme**: Modernes Design im Medium-Stil
 - **GitHub Actions**: Automatisches Deployment zu GitHub Pages
 - **Responsive Design**: Funktioniert auf allen Geräten
 - **SEO-optimiert**: Bessere Sichtbarkeit in Suchmaschinen

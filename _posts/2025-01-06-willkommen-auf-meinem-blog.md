@@ -3,8 +3,8 @@ layout: post
 title: "Willkommen auf meinem Blog!"
 author: admin
 categories: [ Jekyll, Blog ]
-image: assets/images/welcome.jpg
-description: "Der erste Blogpost auf meinem neuen Jekyll-Blog mit dem Memoirs Theme."
+image: assets/images/1.jpg
+description: "Der erste Blogpost auf meinem neuen Jekyll-Blog mit dem Mediumish Theme."
 featured: true
 hidden: false
 ---
@@ -24,7 +24,7 @@ Jekyll ist ein statischer Site-Generator, der es ermöglicht, einfache, schnelle
 
 ## Das Memoirs Theme
 
-Das Memoirs Theme ist ein minimalistisches und elegantes Jekyll-Theme, das perfekt für persönliche Blogs geeignet ist.
+Das Mediumish Theme ist ein modernes und elegantes Jekyll-Theme im Medium-Stil, das perfekt für persönliche Blogs geeignet ist.
 
 ### Features:
 
@@ -47,4 +47,4 @@ Bleib dran für mehr interessante Inhalte!
 
 ---
 
-*Dieser Blog wird mit Jekyll und dem Memoirs Theme erstellt und auf GitHub Pages gehostet.*
+*Dieser Blog wird mit Jekyll und dem Mediumish Theme erstellt und auf GitHub Pages gehostet.*

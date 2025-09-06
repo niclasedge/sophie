@@ -1,0 +1,76 @@
+/* Theme specific styles */
+.mb-30px {
+    margin-bottom: 30px;
+}
+
+.listfeaturedtag {
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 3px;
+    transition: all 0.3s;
+}
+
+.listfeaturedtag:hover {
+    border: 1px solid rgba(0,0,0,.2);
+    transform: translateY(-2px);
+    box-shadow: 0 15px 45px -10px rgba(0,0,0,.1);
+}
+
+.wrapfooter {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.meta-footer-thumb {
+    margin-right: 10px;
+}
+
+.author-meta {
+    flex: 1;
+}
+
+.post-read-more {
+    margin-left: auto;
+}
+
+.post-read-more svg {
+    fill: rgba(0,0,0,.44);
+}
+
+.sticky-top-80 {
+    top: 80px;
+}
+
+.pointerup {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.pointerup i {
+    color: rgba(0,0,0,.4);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .site-content {
+        margin-top: 0;
+        padding-top: 80px;
+    }
+    
+    .featured-box-img-cover {
+        height: 150px;
+    }
+    
+    .wrapthumbnail {
+        height: 150px;
+    }
+    
+    .card-title a {
+        font-size: 17px;
+    }
+    
+    .article-post {
+        font-size: 16px;
+    }
+}

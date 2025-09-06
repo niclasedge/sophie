@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-12">
+                <article class="article-post">
+                {% if page.image %}
+                <div class="article-post-image">
+                    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+                </div>
+                {% endif %}
+                <h1 class="article-post-title">{{ page.title }}</h1>
+                <div class="article-post-meta">
+                    <span>
+                        By <span class="post-author">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span>, <span class="post-date">{{ page.date | date: "%b %d, %Y" }}</span>
+                    </span>
+                    <span class="dot"></span>
+                    <span class="post-read">{{ content | reading_time }}</span>
+                </div>
+                </article>
+
+                <div class="article-post-content">
+                    {{ content }}
+                </div>
+
+                <div class="border-top mt-5 pt-4 mb-5">
+                    {% for tag in page.tags %}
+                    <span class="badge badge-pill badge-light border border-secondary text-secondary">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+
+                {% if site.authorbox == "enabled" %}
+                    {% include author-box.html %}
+                {% endif %}
+
+                {% if site.disqus %}
+                    {% include disqus.html %}
+                {% endif %}
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        {% include sidebar.html %}
+    </div>
+</div>
+</div>

@@ -1,0 +1,15 @@
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation" role="navigation">
+    {% if paginator.previous_page %}
+        <a class="pagination-action older-posts" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% endif %}
+    <span class="pagination-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+        <a class="pagination-action newer-posts" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% endif %}
+</span>
+</div>
+{% endif %}

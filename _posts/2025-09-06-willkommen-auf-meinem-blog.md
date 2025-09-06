@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Willkommen auf meinem Blog!"
-author: admin
+author: sophie
 categories: [ Jekyll, Blog ]
 image: assets/images/1.jpg
 description: "Der erste Blogpost auf meinem neuen Jekyll-Blog mit dem Mediumish Theme."

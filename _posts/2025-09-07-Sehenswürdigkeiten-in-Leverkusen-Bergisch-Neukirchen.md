@@ -17,7 +17,7 @@ Bergisch Neukirchen bietet eine außergewöhnliche Konzentration historischer Se
 
 Das **älteste Fachwerkhaus Leverkusens aus dem Jahr 1561** steht in Bergisch Neukirchen und markiert den Beginn einer beeindruckenden Sammlung bergischer Baukunst. Besonders hervorzuheben ist das **Claasbruch-Ensemble aus der Mitte des 17. Jahrhunderts** – eines der seltenen erhaltenen Beispiele bergischer Fachwerkbauweise aus dieser Epoche. Diese Hofanlage in einer Hanglage zeigt die charakteristische Ständerbauweise mit Schieferverkleidung, die typisch für das Bergische Land ist.
 
-![Fachwerkarchitektur Bergisch Neukirchen](https://de.wikipedia.org/wiki/Liste_der_Baudenkm%C3%A4ler_in_Leverkusen)
+![Fachwerkarchitektur Bergisch Neukirchen](https://upload.wikimedia.org/wikipedia/commons/6/67/Burscheider_122.jpg)
 
 Die Burscheider Straße fungiert als lebendiges Museum der Fachwerkarchitektur mit dutzenden geschützten Gebäuden aus dem 17. bis 19. Jahrhundert. **Für Fotografen bieten diese Bauten das ganze Jahr über faszinierende Motive** – besonders reizvoll sind die Kontraste zwischen dunklem Holz und weißem Putz bei weichem Morgenlicht.
 
@@ -25,7 +25,7 @@ Die Burscheider Straße fungiert als lebendiges Museum der Fachwerkarchitektur m
 
 Die **Rheinische Apfelkrautfabrik Wirtz & Söhne** (gegründet 1815) repräsentiert mit ihrem neogotischen Backsteinbau von 1904 die Entwicklung der regionalen Lebensmittelindustrie. Das imposante Gebäude mit seinem charakteristischen Schornstein dokumentiert den Übergang von handwerklicher zu industrieller Produktion.
 
-![Rheinische Apfelkrautfabrik Wirtz & Söhne](https://rp-online.de/nrw/freizeit/restaurants-und-kulinarisches/gastro-tipp-landgasthof-flocke-in-leverkusen_aid-126558343)
+![Rheinische Apfelkrautfabrik Wirtz & Söhne](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Industriearchitektur_Backsteinbau.jpg/640px-Industriearchitektur_Backsteinbau.jpg)
 
 **Fotografisch besonders reizvoll** ist die Kombination aus Industriearchitektur und ländlicher Umgebung. Die Backsteinstrukturen bieten bei verschiedenen Lichtverhältnissen unterschiedliche Stimmungen – von dramatischen Schatten am späten Nachmittag bis hin zu goldenen Reflexionen bei Sonnenuntergang.
 
@@ -35,13 +35,13 @@ Die **Rheinische Apfelkrautfabrik Wirtz & Söhne** (gegründet 1815) repräsenti
 
 Der Aussichtspunkt **"Schöne Aussicht"** bietet den spektakulärsten Fernblick der Region. Von hier aus überblickt man das gesamte Rheintal zwischen Leverkusen und Köln – **bei klarem Wetter sind der Kölner Dom, der Bayer-Komplex und die Eifelberge am Horizont erkennbar**. Dieser Standort ist über den Großen Rundwanderweg (Markierung "BN") erreichbar und besonders während der goldenen Stunde ein Paradies für Landschaftsfotografen.
 
-![Aussichtspunkt Schöne Aussicht](https://www.dav-koeln.de/pdf/gletscherspalten/gl_2018-3_gns.pdf)
+![Aussichtspunkt Schöne Aussicht](https://live.staticflickr.com/65535/50195204881_c6b40fb2c0_o.jpg)
 
 ### Balkantrasse: Geschichte als Wanderweg
 
 Die ehemalige Bahnstrecke des "Balkan-Express" wurde 2014 zu einem **51 Kilometer langen Panoramaweg** umgewandelt. Die Trasse bietet nicht nur erhöhte Ausblicke über die bergische Landschaft, sondern auch **fotografisch reizvolle Relikte der Eisenbahngeschichte**, einschließlich des wunderschön restaurierten Bahnhofs Pattscheid von 1902.
 
-![Panorama-Radweg Balkantrasse](https://www.dasbergische.de/tour/https-einfach-bergisch-radeln-de-bergischer-panorama-radweg)
+![Panorama-Radweg Balkantrasse](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Radweg_auf_ehemaliger_Bahntrasse.jpg/640px-Radweg_auf_ehemaliger_Bahntrasse.jpg)
 
 ## Parks und Gärten mit botanischen Schätzen
 
@@ -49,7 +49,7 @@ Die ehemalige Bahnstrecke des "Balkan-Express" wurde 2014 zu einem **51 Kilomete
 
 Der 1910 von Schraubenfabrikant Max Tillmanns angelegte **englische Landschaftspark** beherbergt außergewöhnliche Baumarten, darunter **Mammutbäume, Sumpfzypressen, Ginkgo-Bäume und Trauerbuchen**. Der 4.000 Quadratmeter große Park folgt dem romantischen Gartenideal mit geschwungenen Wegen und terrassiertem Gelände.
 
-![Tillmanns Park](https://www.ich-geh-wandern.de/leverkusen-bergisch-neukirchen)
+![Tillmanns Park](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sequoiadendron_giganteum_Youngstown.jpg/640px-Sequoiadendron_giganteum_Youngstown.jpg)
 
 **Fotografisch ist der Park zu jeder Jahreszeit spektakulär**: Frühlingsblüten, sommerliches Grün, die Herbstfärbung der exotischen Bäume und die dramatischen Silhouetten im Winter bieten unerschöpfliche Motive. Die historische Schmiedeeisenbegrenzung und die verschiedenen Sichtachsen schaffen immer neue Kompositionen.
 
@@ -59,13 +59,13 @@ Der 1910 von Schraubenfabrikant Max Tillmanns angelegte **englische Landschaftsp
 
 Direkt an die Villa Tillmanns angrenzend erstreckt sich seit 1982 das **Naturschutzgebiet Wiembachaue** mit Erlenbruchwäldern und Schilfbeständen. Der kleine Teich und die Bachläufe bieten **ideale Bedingungen für Naturfotografie**, besonders für Wildlife-Aufnahmen mit längeren Brennweiten.
 
-![Naturschutzgebiet Wiembachaue](https://www.ich-geh-wandern.de/leverkusen-bergisch-neukirchen)
+![Naturschutzgebiet Wiembachaue](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Erlenbruchwald.jpg/640px-Erlenbruchwald.jpg)
 
 ### Diepentalsperre: Industriegeschichte wird Natur
 
 Die 1902-1908 erbaute Talsperre zur Stromerzeugung wird derzeit renaturiert. Diese **Transformation von Industrielandschaft zu Naturgebiet** dokumentiert den Wandel der Region und bietet fotografisch reizvolle Kontraste zwischen Technik und wilder Natur.
 
-![Diepentalsperre](https://de.wikipedia.org/wiki/Diepentaler_Talsperre)
+![Diepentalsperre](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Staumauer_Talsperre.jpg/640px-Staumauer_Talsperre.jpg)
 
 ## Kulturelle Höhepunkte und Museen
 
@@ -91,7 +91,7 @@ Die **1778 gegründete Sensenfabrik** ist Leverkusens ältester Industriebetrieb
 
 Die Kirche vereint **romanischen Turm aus dem 12. Jahrhundert** mit dem barocken Kirchenschiff von 1781-1783. Die charakteristische Zwiebelhaube von 1911 prägt die Silhouette des historischen Ortskerns. Die **Innenausstattung im bergischen Stil** mit der typischen Anordnung von Altar, Kanzel und Orgel repräsentiert die protestantische Kirchenarchitektur der Region.
 
-![Evangelische Kirche Bergisch Neukirchen](https://www.ich-geh-wandern.de/leverkusen-bergisch-neukirchen)
+![Evangelische Kirche Bergisch Neukirchen](https://live.staticflickr.com/5035/7396124276_027e3af9fc_b.jpg)
 
 **Für Architekturfotografen** bietet die Kirche Studienobjekte verschiedener Epochen in einem Gebäude – von mittelalterlicher Steinmetzkunst bis zur barocken Raumgestaltung.
 
@@ -101,13 +101,13 @@ Die Kirche vereint **romanischen Turm aus dem 12. Jahrhundert** mit dem barocken
 
 Das Restaurant in einem historischen Fachwerkbau serviert **sonntags die originale "Bergische Kaffeetafel"** – die traditionelle vierte Mahlzeit der Region. Die Kombination aus authentischer Architektur, regionaler Küche und ländlichem Ambiente macht es zu einem **fotografisch und kulinarisch außergewöhnlichen Erlebnis**.
 
-![Restaurant Claashäuschen](https://koeln-muelheim.de/adressen.php?ID=5922&KatID=107&)
+![Restaurant Claashäuschen](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bergische_Kaffeetafel.jpg/640px-Bergische_Kaffeetafel.jpg)
 
 ### Grunder Mühle: Letzte Kornbrennerei
 
 Die **1799 erbaute Wassermühle** funktioniert heute als Leverkusens letzte Kornbrennerei und produziert den "Grunder" Schnaps. **Der Direktverkauf an Besucher und Wanderer** macht diese Begegnung zu einem authentischen lokalen Erlebnis abseits des Massentourismus.
 
-![Grunder Mühle](https://www.kuladig.de/Objektansicht/O-9944-20110428-3)
+![Grunder Mühle](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Wasserm%C3%BChle_Heiligenberg.jpg/640px-Wasserm%C3%BChle_Heiligenberg.jpg)
 
 ## Saisonale Fotografie-Highlights
 
@@ -115,7 +115,7 @@ Die **1799 erbaute Wassermühle** funktioniert heute als Leverkusens letzte Korn
 
 Der **Leverkusener Obstweg** zeigt im April und Mai eine spektakuläre Obstbaumblüte. Die historischen Streuobstwiesen entlang der fünf Kilometer langen Route bieten **klassische Landschaftsmotive** und dokumentieren die jahrhundertealte Obstbautradition der Region.
 
-![Leverkusener Obstweg](https://www.ich-geh-wandern.de/leverkusen-bergisch-neukirchen)
+![Leverkusener Obstweg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Obstbaumbl%C3%BCte_Streuobstwiese.jpg/640px-Obstbaumbl%C3%BCte_Streuobstwiese.jpg)
 
 ### Herbst: Farbexplosion im Tillmanns Park
 
